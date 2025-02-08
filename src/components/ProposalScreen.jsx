@@ -2,7 +2,7 @@ import React from "react"
 function ProposalScreen({ noButtonPosition, onMoveNo, onYes, noButtonRef }) {
     return (
       <div className="proposal-screen">
-        <h2 className="pixel-text text-3xl text-pink-400 mb-8">I've been crushing on you, and I want to know...</h2>
+        <h2 className="pixel-text text-3xl text-pink-400 mb-8">Look, I could hire a skywriter, release 100 balloons, or train a parrot to ask you… but let’s keep it simple...</h2>
         <div className="heart-container">
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gif-30UAvQxRrufuGgJk37HxSyDLmsVydg.gif"

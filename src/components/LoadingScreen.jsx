@@ -2,7 +2,7 @@ import React from "react"
 function LoadingScreen({ progress }) {
     return (
       <div className="loading-screen">
-        <h1 className="pixel-text text-4xl text-pink-400 mb-8">Loading Ivy's Love Quest...</h1>
+        <h1 className="pixel-text text-4xl text-pink-400 mb-8">Loading Vanessa's Love Quest...</h1>
         <div className="loading-bar-container">
           <div className="loading-bar" style={{ width: `${progress}%` }}></div>
         </div>

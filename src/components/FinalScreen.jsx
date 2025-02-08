@@ -2,8 +2,8 @@ import React from "react"
 function FinalScreen() {
     return (
       <div className="final-screen">
-        <h1 className="pixel-text text-4xl text-pink-400">Yay! You said YES!</h1>
-        <p className="pixel-text text-2xl text-white">I'm so excited to be your Valentine!</p>
+        <h1 className="pixel-text text-4xl text-pink-400">INDA!!!</h1>
+        <p className="pixel-text text-2xl text-white">no refunds, no exchanges! LOVE YAH!</p>
         <div className="heart-explosion">
           <img
             src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pixel%20Heart%20Animation%2016x16-MkX54haQRUHQPJCQJScNs6csRcg9QP.gif"
